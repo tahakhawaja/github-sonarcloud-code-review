@@ -1,9 +1,6 @@
 # GitHub Code Review (Python)
 
-This docker application uses SonarCloud and GitHub to conduct code reviews on all public repositories for a given GitHub user. The application takes a GitHub user name, forks all public repositories of that user and conducts an analysis in SonarCloud to retrieve the number of bugs, code smells, and vulnerabilities. 
-
-1. The first service 
-
+This docker application uses SonarCloud and GitHub to conduct code reviews on all public repositories for a given GitHub user. The application takes a GitHub user name, forks all public repositories of that user and conducts an analysis in SonarCloud to retrieve the number of bugs, code smells, and vulnerabilities for each repository
 
 ## Installation
 
